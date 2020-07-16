@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("你好");
         System.out.println("你好");
         System.out.println("花开富贵");
+        System.out.println("你好");
     }
 }
